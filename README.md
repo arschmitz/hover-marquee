@@ -1,15 +1,9 @@
-# HTML5 MARQUEE [![npm version](https://badge.fury.io/js/html5-marquee.svg)](http://badge.fury.io/js/html5-marquee)
-
-<p align="center"><img alt="HTML5 marquee logo" src="logo/logo.png" /></p>
-
->Are you missing good-old feel to your pages? Missing something form the past?
-
-This is a (deprecated) `<marquee></marquee>` tag implementation in HTML5 using pure CSS3 animations. Please see [**live demo here**](http://muchweb.github.io/html5-marquee/).
-
+# CSS3 Hover MARQUEE [![npm version](https://badge.fury.io/js/hover-marquee.svg)](http://badge.fury.io/js/hover-marquee)
+### This is a fork of the html5 marquee by muchweb [https://github.com/muchweb/html5-marquee](https://github.com/muchweb/html5-marquee)
 ## Installation
 
-- Bower: `bower install html5-marquee`
-- NPM: `npm install html5-marquee`
+- Bower: `bower install hover-marquee`
+- NPM: `npm install hover-marquee`
 
 ## Usage
 
@@ -75,11 +69,3 @@ make
 ```
 
 This will create `css` directory.
-
-## Free license: [GNU GPLv3+](./LICENSE)
-
-This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
-
-This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.
-
-You should have received a copy of the GNU General Public License along with this program.  If not, see <http://www.gnu.org/licenses/>.
