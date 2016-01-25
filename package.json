@@ -2,12 +2,12 @@
   "name": "html5-marquee",
   "description": "HTML5 marquee tag implementation in pure CSS3",
   "version": "0.2.0",
-  "repository": "https://github.com/muchweb/html5-marquee",
-  "homepage": "http://html5marquee.com/",
+  "repository": "https://github.com/arschmitz/html5-marquee",
+  "homepage": "http://arschmitz.me/",
   "license": "MIT",
-  "author": "muchweb <aleks@s-ko.net>",
+  "author": "arschmitz <arschmitz@gmail.com>",
   "keywords": [
-    "html5",
+    "hover",
     "marquee"
   ],
   "devDependencies": {
