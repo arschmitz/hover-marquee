@@ -4,7 +4,7 @@
   "version": "0.2.0",
   "repository": "https://github.com/muchweb/html5-marquee",
   "homepage": "http://html5marquee.com/",
-  "license": "GPL-3.0+",
+  "license": "MIT",
   "author": "muchweb <aleks@s-ko.net>",
   "keywords": [
     "html5",
