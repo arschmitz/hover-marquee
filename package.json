@@ -1,7 +1,7 @@
 {
   "name": "html5-marquee",
-  "description": "HTML5 marquee tag implementation in pure CSS3",
-  "version": "0.2.0",
+  "description": "Turn text into a marquee on hover to reveal hidden text",
+  "version": "1.0.0",
   "repository": "https://github.com/arschmitz/html5-marquee",
   "homepage": "http://arschmitz.me/",
   "license": "MIT",
